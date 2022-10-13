@@ -1,0 +1,5 @@
+C:\Users\Eater\Desktop\lp\stud\cisharp\1seminar\dma\obj\Debug\net6.0\dma.csproj.AssemblyReference.cache
+C:\Users\Eater\Desktop\lp\stud\cisharp\1seminar\dma\obj\Debug\net6.0\dma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eater\Desktop\lp\stud\cisharp\1seminar\dma\obj\Debug\net6.0\dma.AssemblyInfoInputs.cache
+C:\Users\Eater\Desktop\lp\stud\cisharp\1seminar\dma\obj\Debug\net6.0\dma.AssemblyInfo.cs
+C:\Users\Eater\Desktop\lp\stud\cisharp\1seminar\dma\obj\Debug\net6.0\dma.csproj.CoreCompileInputs.cache
